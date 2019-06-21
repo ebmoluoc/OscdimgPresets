@@ -142,7 +142,7 @@ IFACEMETHODIMP ContextMenuHandler::InvokeCommand(LPCMINVOKECOMMANDINFO pici)
 	auto menuIndex{ LOWORD(pici->lpVerb) };
 	auto presetName{ submenuList_[menuIndex] };
 
-	auto sourcePath{ pathList_.GetItems()[0] };
+	auto sourcePath{ pathList_.GetFirstItem() };
 	auto exePath{ hlp::RenamePath(dll_.Path(), L"OscdimgPresets.exe") };
 
 	auto argPreset{ hlp::EscapeArgument(presetName) };

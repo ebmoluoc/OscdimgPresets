@@ -12,33 +12,33 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define VERSION_MAJOR				2
-#define VERSION_MINOR				3
-#define VERSION_BUILD				0
-#define VERSION_REVISION			0
+#define VERSION_MAJOR			2
+#define VERSION_MINOR			3
+#define VERSION_BUILD			0
+#define VERSION_REVISION		0
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define IDI_ICON_MENU				100
-#define ICON_MENU_NAME_A			"blankcd.ico"
+#define IDI_ICON_MENU			100
+#define ICON_MENU_NAME_A		"blankcd.ico"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define PRODUCT_NAME_A				"Oscdimg Presets"
-#define PRODUCT_NAME_W				WSTR(PRODUCT_NAME_A)
+#define PRODUCT_NAME_A			"Oscdimg Presets"
+#define PRODUCT_NAME_W			WSTR(PRODUCT_NAME_A)
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define PRODUCT_DESCRIPTION_A		"Oscdimg Presets Shell Extension"
+#define PRODUCT_DESCRIPTION_A	"Oscdimg Presets Shell Extension"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define PRODUCT_COPYRIGHT_A			"Copyright (c) 2019 Philippe Coulombe"
+#define PRODUCT_COPYRIGHT_A		"Copyright (c) 2019 Philippe Coulombe"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define PRODUCT_HKCR_W				L"Directory", L"Drive"
+#define PRODUCT_HKCR_W			L"Directory", L"Drive"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
-#define PRODUCT_CLSID_W				L"{F365B99D-804F-4F22-9ADD-F4D95050E7EA}"
+#define PRODUCT_CLSID_W			L"{F365B99D-804F-4F22-9ADD-F4D95050E7EA}"
