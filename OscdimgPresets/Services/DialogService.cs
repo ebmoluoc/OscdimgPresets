@@ -140,7 +140,7 @@ namespace OscdimgPresets.Services
 
             view.ShowDialog();
 
-            return viewModel.GetResult(); ;
+            return viewModel.GetResult();
         }
 
 
