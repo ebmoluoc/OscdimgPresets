@@ -86,7 +86,7 @@ namespace OscdimgPresets.ViewModels
         }
 
 
-        public static string WindowTitle
+        public string WindowTitle
         {
             get { return AppHelper.AssemblyInfo.Title; }
         }
