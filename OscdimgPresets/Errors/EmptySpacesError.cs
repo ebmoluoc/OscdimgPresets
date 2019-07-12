@@ -1,4 +1,4 @@
-﻿using CsharpHelpers.NotifyServices;
+﻿using CsharpHelpers.WindowServices;
 using System.Runtime.CompilerServices;
 
 namespace OscdimgPresets.Errors

@@ -1,5 +1,5 @@
 ﻿using CsharpHelpers.Helpers;
-using CsharpHelpers.NotifyServices;
+using CsharpHelpers.WindowServices;
 using OscdimgPresets.Errors;
 using System;
 

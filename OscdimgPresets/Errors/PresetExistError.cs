@@ -1,4 +1,4 @@
-﻿using CsharpHelpers.NotifyServices;
+﻿using CsharpHelpers.WindowServices;
 using OscdimgPresets.Models;
 using OscdimgPresets.Services;
 using System.Runtime.CompilerServices;

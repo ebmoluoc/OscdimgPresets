@@ -1,5 +1,4 @@
-﻿using CsharpHelpers.NotifyServices;
-using CsharpHelpers.WindowServices;
+﻿using CsharpHelpers.WindowServices;
 using OscdimgPresets.Errors;
 using OscdimgPresets.Models;
 using OscdimgPresets.Services;
